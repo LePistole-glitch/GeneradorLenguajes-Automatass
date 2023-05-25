@@ -1,0 +1,15 @@
+C:\Users\chave\Desktop\Generador\bin\Debug\net6.0\Generador.exe
+C:\Users\chave\Desktop\Generador\bin\Debug\net6.0\Generador.deps.json
+C:\Users\chave\Desktop\Generador\bin\Debug\net6.0\Generador.runtimeconfig.json
+C:\Users\chave\Desktop\Generador\bin\Debug\net6.0\Generador.dll
+C:\Users\chave\Desktop\Generador\bin\Debug\net6.0\ref\Generador.dll
+C:\Users\chave\Desktop\Generador\bin\Debug\net6.0\Generador.pdb
+C:\Users\chave\Desktop\Generador\obj\Debug\net6.0\Generador.csproj.AssemblyReference.cache
+C:\Users\chave\Desktop\Generador\obj\Debug\net6.0\Generador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chave\Desktop\Generador\obj\Debug\net6.0\Generador.AssemblyInfoInputs.cache
+C:\Users\chave\Desktop\Generador\obj\Debug\net6.0\Generador.AssemblyInfo.cs
+C:\Users\chave\Desktop\Generador\obj\Debug\net6.0\Generador.csproj.CoreCompileInputs.cache
+C:\Users\chave\Desktop\Generador\obj\Debug\net6.0\Generador.dll
+C:\Users\chave\Desktop\Generador\obj\Debug\net6.0\ref\Generador.dll
+C:\Users\chave\Desktop\Generador\obj\Debug\net6.0\Generador.pdb
+C:\Users\chave\Desktop\Generador\obj\Debug\net6.0\Generador.genruntimeconfig.cache
