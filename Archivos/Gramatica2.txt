@@ -1,0 +1,12 @@
+Lenguaje : Cplusplus; //Gramática de Lenguaje C++
+{ 
+    X              -> Librerias Main;
+    Librerias	          -> #include <identificador(.h)?> (#Librerias)?; 
+    /* 
+    X                     -> identificador
+    */
+    Main                  -> void main\(\)
+            {
+                [a E (identificador)?|b A|numero (# R)?]\;\?
+            };
+}

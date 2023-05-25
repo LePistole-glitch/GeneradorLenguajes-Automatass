@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <conio.h>
+#include <math.h>
+#include <stdlib>
+#include <graphics.h>
+
+float volumen, radio, altura;
+
+void main()
+{
+    printf("\nIngrese el radio del cilindro");
+    printf("\nHola");
+}
+			
+		
+			
+		
+		
+
+		
+
+

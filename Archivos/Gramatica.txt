@@ -1,0 +1,29 @@
+Lenguaje: Cplusplus;
+{
+Programa	         -> ;
+Librerias	         -> ;
+Variables            -> ;
+ListaIdentificadores -> ;
+Main		         -> ;
+BloqueInstrucciones  -> ;
+ListaInstrucciones 	 -> ;
+Instrccion           -> ;
+Printf               -> ;
+Scanf	             -> ;
+ListadeAmpersas	     -> ;
+If			         -> ;
+Condicion	     	 -> ;
+For	             	 -> ;
+While	             -> ;
+Switch               -> ;
+VariosCase           -> ;
+CaseInstruccion      -> ;
+Break                -> ;
+Default              -> ;
+Asignacion	         -> ;
+Expresion            -> ;
+MasTermino	         -> ;
+Termino	             -> ; 
+PorFactor	         -> ;
+Factor	             -> ;
+}
