@@ -1,2 +1,2 @@
 # GeneradorLenguajes-Automatass
-Generador Lexico de Lengaujes y Automatas
+Generador Lexico de Lenguajes y Automatas
